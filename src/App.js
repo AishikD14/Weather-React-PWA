@@ -17,6 +17,11 @@ const App =() => {
 
     return(
         <div className="main-container">
+            <div className="city">
+                <h2 className="city-name">
+                    <span>Hi Ritaban</span>
+                </h2>
+            </div>
             <input 
                 type= "text"
                 className="search"
